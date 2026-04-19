@@ -1,5 +1,3 @@
-// require('dotenv').config()
-// This is my first project in backend ...
 import express from 'express'
 const PORT = 3000
 
